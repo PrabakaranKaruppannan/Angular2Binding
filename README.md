@@ -1,5 +1,6 @@
 # Angular2Binding
 
+I learned different types of binding in angular using this project. Ex. Interpolation, Property Binding, Attribute Binding, Style Binding, Class Binding, Event, Two way Binding.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
 
 ## Development server
